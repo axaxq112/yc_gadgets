@@ -1,0 +1,6 @@
+smtpServer: smtp.qq.com #smtp服务器
+smtpPort: 465 #smtp服务器端口
+smtpUser: 2173015288@qq.com #smtp发件账号
+smtpCode: bhmzrXXXXXXXXXX #smtp授权码
+innerApi: http://192.168.101.116/bsh/getExportLink.php #最后无 "/"
+apiReqPass: bsh1230 #Api鉴权密钥（内外一致)
