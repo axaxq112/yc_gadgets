@@ -1,0 +1,6 @@
+客户端：
+	Python 3.10.6 (v3.10.6:9c7b4bd164, Aug  1 2022, 17:13:48) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+
+
+服务端：
+	Apache/2.4.46 (Unix) mod_fastcgi/mod_fastcgi-SNAP-0910052141 PHP/7.3.29 OpenSSL/1.0.2u mod_wsgi/3.5 Python/2.7.13
