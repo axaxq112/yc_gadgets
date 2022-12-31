@@ -4,3 +4,8 @@
 
 服务端：
 	Apache/2.4.46 (Unix) mod_fastcgi/mod_fastcgi-SNAP-0910052141 PHP/7.3.29 OpenSSL/1.0.2u mod_wsgi/3.5 Python/2.7.13
+
+
+自行修改php.ini中
+
+max_execution_time、memory_limit等参数，防止报错
